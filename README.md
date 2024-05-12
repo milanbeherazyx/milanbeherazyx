@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)](https://www.linkedin.com/in/milanbeherazyx/)
 
 <h1 align="left">Hi 👋, I'm Milan Kumar Behera!</h1>
-<h3 align="left">I'm Milan, a passionate data scientist and tech enthusiast from India on a mission to unlock insights and drive innovation through the power of data. With a background in Civil Engineering and a deep dive into the world of data science, I bring a unique blend of analytical skills and creative problem-solving to the table.</h3>
+<h3 align="left">I'm Milan, an avid data scientist and technology enthusiast hailing from India, driven by the quest to unearth insights and foster innovation using the magic of data. My expertise spans across various domains, ranging from automation and data modeling to visualization, statistical analysis, and data mining. Armed with proficiency in Python, SQL, Excel, and Power BI, I unravel actionable insights from complex datasets. Furthermore, I excel in delivering strategic business intelligence tailored to fuel impactful decisions, particularly within the dynamic realm of FinTech.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 
