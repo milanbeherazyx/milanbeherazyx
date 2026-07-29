@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" font-family="'General Sans',-apple-system,'Segoe UI',Roboto,Arial,sans-serif" role="img" aria-label="Milan Kumar Behera — Data Analyst, Lending &amp; Credit Risk. Messy data, turned into decisions.">
+  <defs>
+    <linearGradient id="gBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f6fb"/>
+    </linearGradient>
+    <linearGradient id="gText" gradientUnits="userSpaceOnUse" x1="470" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset=".55" stop-color="#9333ea"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="gBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="52"/>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#101116" stroke-opacity=".04" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="avatarGlow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace; font-variant-numeric: tabular-nums; }
+  </style>
+
+  <rect width="1584" height="396" fill="url(#gBg)"/>
+  <rect width="1584" height="396" fill="url(#grid)"/>
+
+  <!-- ambient glow field (soft pastel washes) -->
+  <ellipse cx="1220" cy="20" rx="360" ry="160" fill="#6366f1" opacity=".10" filter="url(#blur)"/>
+  <ellipse cx="1520" cy="390" rx="300" ry="160" fill="#a855f7" opacity=".09" filter="url(#blur)"/>
+  <ellipse cx="720" cy="430" rx="280" ry="130" fill="#22d3ee" opacity=".07" filter="url(#blur)"/>
+  <!-- soft halo behind where the avatar sits -->
+  <circle cx="210" cy="330" r="260" fill="url(#avatarGlow)"/>
+
+  <!-- data constellation (top band, clear of text) -->
+  <g stroke="#6366f1" stroke-opacity=".38" stroke-width="1" fill="none">
+    <path d="M540 66 L640 34 L748 74 L850 30" stroke-dasharray="4 7"/>
+    <path d="M640 34 L706 100" stroke-dasharray="3 8"/>
+  </g>
+  <g fill="#0e7490">
+    <circle cx="540" cy="66" r="3"/>
+    <circle cx="640" cy="34" r="2.5"/>
+    <circle cx="748" cy="74" r="3"/>
+    <circle cx="850" cy="30" r="2.5"/>
+    <circle cx="706" cy="100" r="2" fill="#9333ea"/>
+    <circle cx="1544" cy="60" r="2.5" fill="#4f46e5"/>
+    <circle cx="1050" cy="356" r="2" fill="#4f46e5"/>
+    <circle cx="380" cy="90" r="2" opacity=".7"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text class="mono" x="470" y="112" font-size="14" letter-spacing="3" fill="#0e7490">DATA ANALYST · LENDING &amp; CREDIT RISK · 4+ YEARS</text>
+
+  <!-- headline -->
+  <g font-weight="800" letter-spacing="-1.5">
+    <text x="468" y="186" font-size="56" fill="#101116">Messy data, turned into</text>
+    <text x="468" y="248" font-size="56" fill="url(#gText)">decisions.</text>
+  </g>
+
+  <!-- toolkit -->
+  <text class="mono" x="470" y="300" font-size="16" fill="#4d5361">python · sql/snowflake · tableau · power bi · funnels &amp; rca · ml</text>
+
+  <!-- status chip -->
+  <g>
+    <rect x="470" y="326" width="252" height="36" rx="18" fill="#0e7490" fill-opacity=".06" stroke="#0e7490" stroke-opacity=".4"/>
+    <circle cx="493" cy="344" r="4" fill="#0e7490"/>
+    <text class="mono" x="507" y="349" font-size="14" fill="#0e7490">open_to: leads &amp; roles</text>
+  </g>
+
+  <!-- funnel ledger (far right) -->
+  <g transform="translate(1156,128)">
+    <text class="mono" x="0" y="0" font-size="12" letter-spacing="2" fill="#4d5361">PORTFOLIO QUALIFICATION RATE</text>
+
+    <text class="mono" x="0" y="46" font-size="12" fill="#4d5361">before</text>
+    <rect x="66" y="31" width="270" height="19" rx="4" fill="#101116" fill-opacity=".07"/>
+    <rect x="66" y="31" width="81" height="19" rx="4" fill="#6366f1" fill-opacity=".5"/>
+    <text class="mono" x="346" y="46" font-size="15" fill="#101116">30%</text>
+
+    <text class="mono" x="0" y="88" font-size="12" fill="#4d5361">after</text>
+    <rect x="66" y="73" width="270" height="19" rx="4" fill="#101116" fill-opacity=".07"/>
+    <rect x="66" y="73" width="116" height="19" rx="4" fill="url(#gBar)"/>
+    <text class="mono" x="346" y="88" font-size="15" font-weight="700" fill="#0e7490">43%</text>
+
+    <text class="mono" x="0" y="128" font-size="12" fill="#4d5361">6 lenders · 100K+ borrowers / month</text>
+
+    <g transform="translate(268,108) rotate(-6)">
+      <rect x="0" y="0" width="100" height="34" rx="7" fill="#0e7490" fill-opacity=".06" stroke="#0e7490" stroke-width="1.5"/>
+      <text class="mono" x="50" y="22" font-size="15" font-weight="700" fill="#0e7490" text-anchor="middle">+13 pts</text>
+    </g>
+  </g>
+
+  <!-- proof strip -->
+  <g class="mono" transform="translate(908,326)" font-size="13">
+    <text x="0" y="10" fill="#101116" font-weight="700">₹8–9B+</text>
+    <text x="76" y="10" fill="#4d5361">book monitored</text>
+    <text x="222" y="10" fill="#101116" font-weight="700">80%</text>
+    <text x="262" y="10" fill="#4d5361">reviews automated</text>
+    <text x="432" y="10" fill="#101116" font-weight="700">112</text>
+    <text x="470" y="10" fill="#4d5361">policy rules</text>
+  </g>
+
+  <!-- top + bottom gradient hairlines -->
+  <rect x="0" y="0" width="1584" height="2" fill="url(#gBar)" opacity=".5"/>
+  <rect x="0" y="394" width="1584" height="2" fill="url(#gBar)" opacity=".3"/>
+</svg>
