@@ -1,130 +1,164 @@
-[![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)](https://www.linkedin.com/in/milanbeherazyx/)
+<!-- ============================================================
+     Milan Kumar Behera — GitHub Profile
+     Theme: "Signal" — matches milanbeherazyx.github.io
+     Palette: bg #0b0c10 · indigo #6366f1→violet #a855f7 · cyan #22d3ee
+     ============================================================ -->
 
-<h1 align="left">Hi 👋, I'm Milan Kumar Behera!</h1>
-<h3 align="left">I'm Milan, an avid data scientist and technology enthusiast hailing from India, driven by the quest to unearth insights and foster innovation using the magic of data. My expertise spans across various domains, ranging from automation and data modeling to visualization, statistical analysis, and data mining. Armed with proficiency in Python, SQL, Excel, and Power BI, I unravel actionable insights from complex datasets. Furthermore, I excel in delivering strategic business intelligence tailored to fuel impactful decisions, particularly within the dynamic realm of FinTech.</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+<!-- ── HERO (custom animated SVG — built in Phase 2) ────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" alt="Milan Kumar Behera — Data Analyst, Lending & Credit Risk. Messy data, turned into decisions." width="100%">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanbeherazyx&label=Profile%20views&color=0e75b6&style=flat" alt="milanbeherazyx" /> </p>
+<!-- ── TYPING LINE ──────────────────────────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=0E7490&center=true&vCenter=true&width=760&height=42&lines=Funnels+%C2%B7+Metrics+%C2%B7+Root+causes+%C2%B7+Dashboards;Qualification+lifted+30%25+%E2%86%92+43%25+across+6+lenders;%E2%82%B98%E2%80%939B%2B+loan+book+monitored+%C2%B7+100K%2B+active+loans;SQL+%C2%B7+Python+%C2%B7+Snowflake+%C2%B7+Tableau+%C2%B7+Power+BI">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=42&lines=Funnels+%C2%B7+Metrics+%C2%B7+Root+causes+%C2%B7+Dashboards;Qualification+lifted+30%25+%E2%86%92+43%25+across+6+lenders;%E2%82%B98%E2%80%939B%2B+loan+book+monitored+%C2%B7+100K%2B+active+loans;SQL+%C2%B7+Python+%C2%B7+Snowflake+%C2%B7+Tableau+%C2%B7+Power+BI" alt="Funnels · Metrics · Root causes · Dashboards">
+</picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanbeherazyx" alt="milanbeherazyx" /></a> </p>
+<br><br>
 
-<p align="left"> <a href="https://twitter.com/milanbeherazyx" target="blank"><img src="https://img.shields.io/twitter/follow/milanbeherazyx?logo=twitter&style=for-the-badge" alt="milanbeherazyx" /></a> </p>
+<!-- ── PROOF METRICS (custom animated SVG — built in Phase 3) ─ -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
+  <img src="assets/metrics-dark.svg" alt="30% → 43% portfolio qualification rate lifted · ₹8–9B+ loan exposure monitored · 80% of manual vendor risk reviews eliminated" width="100%">
+</picture>
 
-<h3 align="left">Additional Sections</h3>
+</div>
 
-- 🌱 I’m currently learning **Deep learning with PyTorch.**
+<!-- ── ABOUT / CURRENTLY ────────────────────────────────────── -->
+## `$ whoami`
 
-- 👯 I’m looking to collaborate on **Data science projects and open-source initiatives.**
+Data analyst with **4+ years in lending & credit risk**. I turn messy operational data into decisions — funnels, metric definitions, root causes, dashboards. The domain changes; **the method doesn't.**
 
-- 🤝 I’m looking for help with **Advanced machine learning techniques.**
+```yaml
+now:      Business Analyst — BRE @ Khatabook, Bengaluru
+scope:    6 lending partners · 112 decision rules → 200+ policy variants · 119 variables
+book:     ₹8–9B+ exposure monitored · 100K–125K monthly borrowers · 15+ DPD stages
+before:   Quinte FinTech (Axos Bank, USA) · Omdena (60+ member data team lead) · founder @ The Oven Vibe
+open_to:  freelance_leads & full-time_roles
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/milanbeherazyx?tab=repositories](https://github.com/milanbeherazyx?tab=repositories)
+<!-- ── FEATURED WORK ────────────────────────────────────────── -->
+## `$ featured --work`
 
-- 💬 Ask me about **Data analysis, machine learning algorithms, or Python programming.**
+| Case study | Impact | What it was |
+| :--- | :--- | :--- |
+| **[Lifting portfolio qualification from 30% → 43%](https://milanbeherazyx.github.io/work/lifting-qualification-30-to-43/)** | `+13 pts` | Approval-funnel & rejection-code analytics across 6 lending partners, 100K+ monthly borrowers |
+| **[Policy as code: 112 rules, 200+ variants](https://milanbeherazyx.github.io/work/policy-as-code/)** | `6 lenders` | Credit policy managed like source code — versioned, benchmarked, UAT-replayed before deploy |
+| **[Cohort & vintage delinquency for a US bank](https://milanbeherazyx.github.io/work/cohort-vintage-delinquency/)** | `+25–30% accuracy` | Vintage-curve monitoring for Axos Bank; regulatory reporting time cut by 50% |
+| **[Killing 80% of manual vendor risk reviews](https://milanbeherazyx.github.io/work/killing-manual-vendor-reviews/)** | `−80% manual work` | Python + REST API ETL pipeline; audit scores +15%, risk incidents −20% |
 
-- 📫 How to reach me **milanbeherazyx@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/milanbeherazyx/](https://www.linkedin.com/in/milanbeherazyx/)
+**[→ all case studies](https://milanbeherazyx.github.io/work/)** · **[→ services](https://milanbeherazyx.github.io/services/)**
 
-- ⚡ Fun fact **I'm a certified coffee enthusiast!**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/milanbeherazyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milanbeherazyx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/milanbeherazyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanbeherazyx" height="30" width="40" /></a>
-</p>
+<!-- ── TECH STACK ───────────────────────────────────────────── -->
+## `$ stack --list`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-</a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-</p>
+**Languages & BI**
 
-<h3 align="left">Support:</h3>
-<p align="left">
-<a href="https://www.buymeacoffee.com/milanbeherazyx"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milanbeherazyx" />
-</a>
-<a href="https://ko-fi.com/milanbeherazyx"> 
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="milanbeherazyx" />
-</a>
-</p>
+![Python](https://img.shields.io/badge/Python-12131a?style=for-the-badge&logo=python&logoColor=22d3ee)
+![SQL](https://img.shields.io/badge/SQL-12131a?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+![Tableau](https://img.shields.io/badge/Tableau-12131a?style=for-the-badge&logo=tableau&logoColor=818cf8)
+![Power BI](https://img.shields.io/badge/Power_BI-12131a?style=for-the-badge&logoColor=818cf8)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-12131a?style=for-the-badge&logoColor=818cf8)
+![dbt](https://img.shields.io/badge/dbt-12131a?style=for-the-badge&logo=dbt&logoColor=22d3ee)
 
-<br/><br/>
+**Platforms & Tools**
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanbeherazyx&show_icons=true&locale=en&layout=compact" alt="milanbeherazyx" />
-</p>
+![Snowflake](https://img.shields.io/badge/Snowflake-12131a?style=for-the-badge&logo=snowflake&logoColor=22d3ee)
+![AWS](https://img.shields.io/badge/AWS-12131a?style=for-the-badge&logo=amazonwebservices&logoColor=818cf8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-12131a?style=for-the-badge&logoColor=818cf8)
+![Azure](https://img.shields.io/badge/Azure-12131a?style=for-the-badge&logoColor=22d3ee)
+![Docker](https://img.shields.io/badge/Docker-12131a?style=for-the-badge&logo=docker&logoColor=22d3ee)
+![Git](https://img.shields.io/badge/Git-12131a?style=for-the-badge&logo=git&logoColor=818cf8)
+![Streamlit](https://img.shields.io/badge/Streamlit-12131a?style=for-the-badge&logo=streamlit&logoColor=22d3ee)
+![Airflow](https://img.shields.io/badge/Airflow-12131a?style=for-the-badge&logo=apacheairflow&logoColor=818cf8)
+![Flask](https://img.shields.io/badge/Flask-12131a?style=for-the-badge&logo=flask&logoColor=22d3ee)
 
-<p>&nbsp;</p>
+**Analytics craft**
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milanbeherazyx&show_icons=true&locale=en" alt="milanbeherazyx" />
-</p>
+`BRE policy logic` · `Funnel analysis` · `A/B testing` · `Risk cohort analysis` · `EWI tracking` · `Root-cause analysis` · `Machine learning` · `REST API integration` · `UAT & sanity checks`
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milanbeherazyx&" alt="milanbeherazyx" />
-</p>
+<!-- ── EXPERIENCE SNAPSHOT ──────────────────────────────────── -->
+## `$ history --career`
 
-<p>&nbsp;</p>
+| When | Where | What |
+| :--- | :--- | :--- |
+| `2026 →` | **Khatabook** — Business Analyst, BRE | BRE analytics across 6 lending partners; qualification 30% → 43% |
+| `2025 →` | **The Oven Vibe** — Founder | D2C bakery run on SKU-level margin analytics |
+| `2024–25` | **Quinte Financial Technologies** — Data / GRC Analyst | Cohort & vintage delinquency for Axos Bank (USA); vendor-risk automation |
+| `2023–24` | **Omdena** — Data Team Lead / ML Engineer | Led 60+ member global data team; ML for cities on 3 continents |
+| `2019–22` | **Chaitanya Projects** — Data Analyst | Regression models cut cement consumption 35%, project delays 10% |
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milanbeherazyx&theme=github_dark" alt="milanbeherazyx" />
-</p>
+<!-- ── GITHUB STATS ─────────────────────────────────────────── -->
+## `$ stats --live`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=milanbeherazyx&show_icons=true&hide_border=true&include_all_commits=true&bg_color=fafafa&title_color=4338ca&icon_color=0e7490&text_color=4d5361&ring_color=6366f1">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=milanbeherazyx&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0b0c10&title_color=818cf8&icon_color=22d3ee&text_color=9ba0ab&ring_color=a855f7" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milanbeherazyx&layout=compact&hide_border=true&bg_color=fafafa&title_color=4338ca&text_color=4d5361">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanbeherazyx&layout=compact&hide_border=true&bg_color=0b0c10&title_color=818cf8&text_color=9ba0ab" alt="Top languages">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=milanbeherazyx&hide_border=true&background=fafafa&ring=6366f1&fire=0e7490&currStreakNum=101116&sideNums=101116&currStreakLabel=4338ca&sideLabels=4d5361&dates=4d5361">
+  <img src="https://streak-stats.demolab.com/?user=milanbeherazyx&hide_border=true&background=0b0c10&ring=a855f7&fire=22d3ee&currStreakNum=ededf0&sideNums=ededf0&currStreakLabel=818cf8&sideLabels=9ba0ab&dates=9ba0ab" alt="Contribution streak">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=milanbeherazyx&hide_border=true&bg_color=fafafa&color=4d5361&line=6366f1&point=0e7490&area=true&area_color=6366f1&title_color=4338ca">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milanbeherazyx&hide_border=true&bg_color=0b0c10&color=9ba0ab&line=a855f7&point=22d3ee&area=true&area_color=6366f1&title_color=818cf8" alt="Contribution activity graph" width="100%">
+</picture>
+
+</div>
+
+<!-- ── LATEST BLOG POSTS (auto-updated by Actions — Phase 4) ── -->
+## `$ blog --latest`
+
+<!-- BLOG-POST-LIST:START -->
+- [Automating manual review work with Python and a REST API](https://milanbeherazyx.github.io/blog/automating-manual-reviews-python-rest-api/)
+- [Diagnosing a funnel drop with rejection-code analysis — a SQL walkthrough](https://milanbeherazyx.github.io/blog/diagnosing-funnel-drops-rejection-code-analysis-sql/)
+- [A QA checklist for Tableau and Power BI dashboards people actually trust](https://milanbeherazyx.github.io/blog/dashboard-qa-checklist-tableau-power-bi/)
+- [Policy as code: how to test credit policy changes before they ship](https://milanbeherazyx.github.io/blog/testing-credit-policy-changes-policy-as-code/)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ── SNAKE (generated by Actions — Phase 4) ───────────────── -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milanbeherazyx/milanbeherazyx/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/milanbeherazyx/milanbeherazyx/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%">
+</picture>
+
+</div>
+
+<!-- ── CONNECT ──────────────────────────────────────────────── -->
+## `$ connect --now`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-milanbeherazyx.github.io-6366f1?style=for-the-badge&logo=astro&logoColor=white&labelColor=0b0c10)](https://milanbeherazyx.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fastest_for_recruiters-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0c10)](https://www.linkedin.com/in/milanbeherazyx/)
+[![Email](https://img.shields.io/badge/Email-milanbeherazyx%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0c10)](mailto:milanbeherazyx@gmail.com?subject=Intro%20call)
+[![Resume](https://img.shields.io/badge/Resume-download_PDF-818cf8?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b0c10)](https://milanbeherazyx.github.io/resume.pdf)
+[![X](https://img.shields.io/badge/X-@milanbeherazyx-ededf0?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0c10)](https://x.com/milanbeherazyx)
+
+<br>
+
+<sub>I read everything myself and reply within a day.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=milanbeherazyx&label=profile+views&color=6366f1&style=flat-square" alt="Profile views">
+
+</div>
