@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 185" role="img" aria-label="GitHub statistics for milanbeherazyx">
+  
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#a855f7" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity=".6"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace; font-variant-numeric: tabular-nums; }
+    .fade { opacity:0; animation: fade .6s ease-out both; }
+    .rise { opacity:0; animation: rise .6s cubic-bezier(.2,.7,.2,1) both; }
+    .grow { transform-box: fill-box; transform-origin: left center; animation: grow .9s cubic-bezier(.2,.7,.2,1) both; }
+    .ring { animation: ring 1.3s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes fade { to { opacity:1 } }
+    @keyframes rise { from { opacity:0; transform: translateY(9px) } to { opacity:1; transform: translateY(0) } }
+    @keyframes grow { from { transform: scaleX(0) } }
+    @keyframes ring { from { stroke-dashoffset: 233 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important } }
+  </style>
+  <rect width="450" height="185" rx="14" fill="#0b0c10"/>
+  <rect width="450" height="185" rx="14" fill="rgba(255,255,255,0.028)"/>
+  <rect x=".75" y=".75" width="448.5" height="183.5" rx="13.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <text class="mono fade" x="24" y="34" font-size="10.5" letter-spacing="1.6" fill="#22d3ee">GITHUB · @milanbeherazyx</text>
+  <text class="mono fade" x="24" y="52" font-size="9.5" letter-spacing="1" fill="#9ba0ab" style="animation-delay:.1s">SINCE AUG 30, 2022</text>
+  
+    <text class="mono rise" x="24" y="71" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.30s">305</text>
+    <text class="mono fade" x="24" y="86" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.30s">TOTAL COMMITS</text>
+    <text class="mono rise" x="244" y="71" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.37s">485</text>
+    <text class="mono fade" x="244" y="86" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.37s">CONTRIBUTIONS</text>
+    <text class="mono rise" x="24" y="115" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.44s">38</text>
+    <text class="mono fade" x="24" y="130" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.44s">PULL REQUESTS</text>
+    <text class="mono rise" x="244" y="115" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.51s">0</text>
+    <text class="mono fade" x="244" y="130" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.51s">ISSUES OPENED</text>
+    <text class="mono rise" x="24" y="159" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.58s">144</text>
+    <text class="mono fade" x="24" y="174" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.58s">PUBLIC REPOS</text>
+    <text class="mono rise" x="244" y="159" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.65s">41</text>
+    <text class="mono fade" x="244" y="174" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.65s">STARS EARNED</text>
+  <rect class="grow" x="24" y="181" width="140" height="2" rx="1" fill="url(#rule)" style="animation-delay:.8s"/>
+</svg>

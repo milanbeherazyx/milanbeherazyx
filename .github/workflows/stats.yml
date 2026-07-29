@@ -1,0 +1,36 @@
+name: Refresh stat cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # daily at 03:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate stat card SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/generate-stats.mjs
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets; then
+            echo "Stat cards unchanged."
+            exit 0
+          fi
+          git add assets
+          git commit -m "chore: refresh stat cards"
+          git push

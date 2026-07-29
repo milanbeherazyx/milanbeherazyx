@@ -101,18 +101,20 @@ open_to:  freelance_leads & full-time_roles
 
 <div align="center">
 
+<!-- Self-hosted stat cards, regenerated daily from the GitHub API by
+     .github/workflows/stats.yml — no third-party service to go down. -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=milanbeherazyx&show_icons=true&hide_border=true&include_all_commits=true&bg_color=fafafa&title_color=4338ca&icon_color=0e7490&text_color=4d5361&ring_color=6366f1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=milanbeherazyx&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0b0c10&title_color=818cf8&icon_color=22d3ee&text_color=9ba0ab&ring_color=a855f7" alt="GitHub stats">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img width="450" src="assets/stats-dark.svg" alt="GitHub stats: total commits, contributions, pull requests, issues, repos and stars">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milanbeherazyx&layout=compact&hide_border=true&bg_color=fafafa&title_color=4338ca&text_color=4d5361">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanbeherazyx&layout=compact&hide_border=true&bg_color=0b0c10&title_color=818cf8&text_color=9ba0ab" alt="Top languages">
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg">
+  <img width="360" src="assets/langs-dark.svg" alt="Top languages by repository">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=milanbeherazyx&hide_border=true&background=fafafa&ring=6366f1&fire=0e7490&currStreakNum=101116&sideNums=101116&currStreakLabel=4338ca&sideLabels=4d5361&dates=4d5361">
-  <img src="https://streak-stats.demolab.com/?user=milanbeherazyx&hide_border=true&background=0b0c10&ring=a855f7&fire=22d3ee&currStreakNum=ededf0&sideNums=ededf0&currStreakLabel=818cf8&sideLabels=9ba0ab&dates=9ba0ab" alt="Contribution streak">
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
+  <img src="assets/streak-dark.svg" alt="Contribution streak: total contributions, current streak, longest streak" width="100%">
 </picture>
 
 <picture>
