@@ -31,11 +31,11 @@
   <text class="mono fade" x="24" y="34" font-size="10.5" letter-spacing="1.6" fill="#22d3ee">GITHUB · @milanbeherazyx</text>
   <text class="mono fade" x="24" y="52" font-size="9.5" letter-spacing="1" fill="#9ba0ab" style="animation-delay:.1s">SINCE AUG 30, 2022</text>
   
-    <text class="mono rise" x="24" y="71" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.30s">305</text>
+    <text class="mono rise" x="24" y="71" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.30s">369</text>
     <text class="mono fade" x="24" y="86" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.30s">TOTAL COMMITS</text>
-    <text class="mono rise" x="244" y="71" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.37s">485</text>
+    <text class="mono rise" x="244" y="71" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.37s">553</text>
     <text class="mono fade" x="244" y="86" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.37s">CONTRIBUTIONS</text>
-    <text class="mono rise" x="24" y="115" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.44s">38</text>
+    <text class="mono rise" x="24" y="115" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.44s">42</text>
     <text class="mono fade" x="24" y="130" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.44s">PULL REQUESTS</text>
     <text class="mono rise" x="244" y="115" font-size="19" font-weight="700" fill="#ededf0" style="animation-delay:0.51s">0</text>
     <text class="mono fade" x="244" y="130" font-size="9.5" letter-spacing="1.2" fill="#9ba0ab" style="animation-delay:0.51s">ISSUES OPENED</text>
