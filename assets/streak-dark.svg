@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 190" role="img" aria-label="Contribution streak: 10 day current streak, 10 day longest streak, 702 total contributions">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 190" role="img" aria-label="Contribution streak: 11 day current streak, 11 day longest streak, 803 total contributions">
   
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
@@ -34,7 +34,7 @@
   <line x1="546" y1="56" x2="546" y2="158" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
 
   
-  <text class="mono rise" x="137" y="88" font-size="34" font-weight="700" fill="#ededf0" text-anchor="middle" style="animation-delay:0.3s">702</text>
+  <text class="mono rise" x="137" y="88" font-size="34" font-weight="700" fill="#ededf0" text-anchor="middle" style="animation-delay:0.3s">803</text>
   <text class="mono fade" x="137" y="124" font-size="10.5" letter-spacing="1.5" fill="#22d3ee" text-anchor="middle" style="animation-delay:0.4s">TOTAL CONTRIBUTIONS</text>
   <text class="mono fade" x="137" y="146" font-size="9.5" fill="#9ba0ab" text-anchor="middle" style="animation-delay:0.44999999999999996s">Aug 30, 2022 → now</text>
 
@@ -42,14 +42,14 @@
   <circle class="ring" cx="410" cy="74" r="37" fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round"
           stroke-dasharray="233" stroke-dashoffset="0" transform="rotate(-90 410 74)" style="animation-delay:.5s"/>
   
-  <text class="mono rise" x="410" y="88" font-size="34" font-weight="700" fill="#ededf0" text-anchor="middle" style="animation-delay:0.45s">10</text>
+  <text class="mono rise" x="410" y="88" font-size="34" font-weight="700" fill="#ededf0" text-anchor="middle" style="animation-delay:0.45s">11</text>
   <text class="mono fade" x="410" y="124" font-size="10.5" letter-spacing="1.5" fill="#22d3ee" text-anchor="middle" style="animation-delay:0.55s">CURRENT STREAK</text>
-  <text class="mono fade" x="410" y="146" font-size="9.5" fill="#9ba0ab" text-anchor="middle" style="animation-delay:0.6s">Aug 4, 2026 → Aug 13, 2026</text>
+  <text class="mono fade" x="410" y="146" font-size="9.5" fill="#9ba0ab" text-anchor="middle" style="animation-delay:0.6s">Aug 4, 2026 → Aug 14, 2026</text>
 
   
-  <text class="mono rise" x="683" y="88" font-size="34" font-weight="700" fill="#ededf0" text-anchor="middle" style="animation-delay:0.6s">10</text>
+  <text class="mono rise" x="683" y="88" font-size="34" font-weight="700" fill="#ededf0" text-anchor="middle" style="animation-delay:0.6s">11</text>
   <text class="mono fade" x="683" y="124" font-size="10.5" letter-spacing="1.5" fill="#22d3ee" text-anchor="middle" style="animation-delay:0.7s">LONGEST STREAK</text>
-  <text class="mono fade" x="683" y="146" font-size="9.5" fill="#9ba0ab" text-anchor="middle" style="animation-delay:0.75s">Aug 4, 2026 → Aug 13, 2026</text>
+  <text class="mono fade" x="683" y="146" font-size="9.5" fill="#9ba0ab" text-anchor="middle" style="animation-delay:0.75s">Aug 4, 2026 → Aug 14, 2026</text>
 
   <rect class="grow" x="24" y="186" width="140" height="2" rx="1" fill="url(#rule)" style="animation-delay:1s"/>
 </svg>
