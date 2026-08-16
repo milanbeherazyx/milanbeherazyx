@@ -31,23 +31,23 @@
   <text class="mono fade" x="24" y="34" font-size="10.5" letter-spacing="1.6" fill="#22d3ee">TOP LANGUAGES · BY REPO</text>
   <rect x="24" y="62" width="312" height="10" rx="5" fill="#ffffff" fill-opacity="0.08"/>
   <g class="grow" style="animation-delay:.35s;transform-origin:24px 67px">
-  <rect class="fade" x="24.0" y="62" width="207.2" height="10" rx="5" fill="#DA5B0B" style="animation-delay:0.40s"/>
-  <rect class="fade" x="231.2" y="62" width="43.9" height="10" rx="0" fill="#3572A5" style="animation-delay:0.46s"/>
-  <rect class="fade" x="275.1" y="62" width="17.1" height="10" rx="0" fill="#e34c26" style="animation-delay:0.52s"/>
-  <rect class="fade" x="292.1" y="62" width="14.6" height="10" rx="0" fill="#384d54" style="animation-delay:0.58s"/>
-  <rect class="fade" x="306.8" y="62" width="12.2" height="10" rx="0" fill="#663399" style="animation-delay:0.64s"/>
-  <rect class="fade" x="318.9" y="62" width="4.9" height="10" rx="5" fill="#89e051" style="animation-delay:0.70s"/>
+  <rect class="fade" x="24.0" y="62" width="210.4" height="10" rx="5" fill="#DA5B0B" style="animation-delay:0.40s"/>
+  <rect class="fade" x="234.4" y="62" width="41.1" height="10" rx="0" fill="#3572A5" style="animation-delay:0.46s"/>
+  <rect class="fade" x="275.5" y="62" width="16.9" height="10" rx="0" fill="#e34c26" style="animation-delay:0.52s"/>
+  <rect class="fade" x="292.5" y="62" width="14.5" height="10" rx="0" fill="#384d54" style="animation-delay:0.58s"/>
+  <rect class="fade" x="307.0" y="62" width="12.1" height="10" rx="0" fill="#663399" style="animation-delay:0.64s"/>
+  <rect class="fade" x="319.1" y="62" width="4.8" height="10" rx="5" fill="#89e051" style="animation-delay:0.70s"/>
   </g>
   
   <circle class="fade" cx="28" cy="100" r="4" fill="#DA5B0B" style="animation-delay:0.50s"/>
   <text class="mono fade" x="40" y="104" font-size="11" fill="#ededf0" style="animation-delay:0.50s">Jupyter</text>
-  <text class="mono fade" x="172" y="104" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.50s">66.4%</text>
+  <text class="mono fade" x="172" y="104" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.50s">67.4%</text>
   <circle class="fade" cx="200" cy="100" r="4" fill="#3572A5" style="animation-delay:0.56s"/>
   <text class="mono fade" x="212" y="104" font-size="11" fill="#ededf0" style="animation-delay:0.56s">Python</text>
-  <text class="mono fade" x="344" y="104" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.56s">14.1%</text>
+  <text class="mono fade" x="344" y="104" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.56s">13.2%</text>
   <circle class="fade" cx="28" cy="124" r="4" fill="#e34c26" style="animation-delay:0.62s"/>
   <text class="mono fade" x="40" y="128" font-size="11" fill="#ededf0" style="animation-delay:0.62s">HTML</text>
-  <text class="mono fade" x="172" y="128" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.62s">5.5%</text>
+  <text class="mono fade" x="172" y="128" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.62s">5.4%</text>
   <circle class="fade" cx="200" cy="124" r="4" fill="#384d54" style="animation-delay:0.68s"/>
   <text class="mono fade" x="212" y="128" font-size="11" fill="#ededf0" style="animation-delay:0.68s">Dockerfile</text>
   <text class="mono fade" x="344" y="128" font-size="11" fill="#9ba0ab" text-anchor="end" style="animation-delay:0.68s">4.7%</text>
